@@ -1,20 +1,12 @@
 # NLP analysis of Polish rap songs
 Introduction to NLP 2022/2023
-
 University of Warsaw
-
 MA Cognitive Science
 
-# NLP analysis:
-Polish Rap Lyrics
-
-![Shape1](RackMultipart20230727-1-egbr2z_html_237499165a11f2b9.gif)
-
+#### 
 By Sofija Krivokapić & Anna Sazonov
 
-![](RackMultipart20230727-1-egbr2z_html_f4bddddeb93ab528.png)
-
-# INTRODUCTION
+## INTRODUCTION
 
 Dear reader,
 
