@@ -1,6 +1,8 @@
 # NLP analysis of Polish rap songs
 
-![image](https://github.com/sofijakrivokapic/NLP_analysis_Polish_rap/assets/125128460/ad88fdfa-4c69-4a46-b511-aedb1bbf2f8f)
+**By Anna Sazonov & Sofija Krivokapić**
+
+![image](https://github.com/sofijakrivokapic/NLP_analysis_Polish_rap/assets/125128460/9849bdde-0a4d-49c8-8ee6-88db6f16d9fd)
 
 Dear reader,
 
@@ -15,4 +17,4 @@ Apart from this research being part of our course requirement for _Introduction 
 Our analysis provided valuable insights into the lyrical styles of different Polish rap artists. We examined the usage of unique words per artist, identifying those who exhibited the most distinctive vocabularies. Additionally, we delved into the average number of syllables used by each artist, shedding light on the complexity of
 their lyrics. Moreover, the topic classification (LDA) revealed prevalent themes in Polish rap music, ranging from life and city experiences to self-expression and emotion.
 
-You can find full report of our research on this repository under the name "Final_Report.pdf". Additionally, If you want to contact us for further information or clarification you can use email **sofijakrivokapic2@gmail.com**.
+You can find full report of our research on this repository under the name ***"Final_Report.pdf"***. Additionally, If you want to contact us for further information or clarification you can use email **sofijakrivokapic2@gmail.com**.
