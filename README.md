@@ -13,3 +13,7 @@ Apart from this research being part of our course requirement for _Introduction 
 ## Summary
 
 In our project we decided to look into the characteristics of Polish rap lyrics by analyzing unique words and checking which artists use more multisyllable words. We also performed topic classification (LDA) to learn about the most salient themes present in Polish rap music.
+
+You can find full report on this repository under the name "Final report".
+
+If you want to contact us for further information or clarification you can use email **sofijakrivokapic2@gmail.com**
