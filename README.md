@@ -1,10 +1,4 @@
 # NLP analysis of Polish rap songs
-Introduction to NLP 2022/2023
-University of Warsaw
-MA Cognitive Science
-
-#### 
-By Sofija Krivokapić & Anna Sazonov
 
 ## INTRODUCTION
 
