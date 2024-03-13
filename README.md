@@ -8,6 +8,8 @@ Dear reader,
 
 Welcome to our report for a research project under the name "NLP analysis: Polish Rap Music"! We are very excited to show you our project, methods we used, and all the exciting results we obtained.
 
+**NOTE: bear in mind that we have just uploaded our .pdf summary and the beta code, not the final one. The final version COMING SOON**
+
 ## Motivation
 
 Apart from this research being part of our course requirement for _Introduction to Natural Language processing_ class at University of Warsaw (incorporated in Master programme Cognitive Science), with this research we wanted to express our appreciation for Polish rap culture, and add our own contribution to it.
